@@ -1,0 +1,5 @@
+{
+        "require-dev": {
+                "hyyan/jaguar": "1.0.*"
+        }
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "hyyan/jaguar",
+        "version": "v1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/hyyan/jaguar.git",
+            "reference": "8b6f650ca84a7e71af7d608883c8fa9a2e305fc9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/hyyan/jaguar/zipball/8b6f650ca84a7e71af7d608883c8fa9a2e305fc9",
+            "reference": "8b6f650ca84a7e71af7d608883c8fa9a2e305fc9",
+            "shasum": ""
+        },
+        "require": {
+            "ext-gd": "*",
+            "php": ">=5.3.2"
+        },
+        "time": "2013-12-29T11:20:35+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Jaguar": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Hyyan Abo Fakher",
+                "email": "tiribthea4hyyan@gmail.com"
+            }
+        ],
+        "description": "PHP 5.3 Graphic Library For Image Manipulation And Drawing."
+    }
+]
